@@ -1,0 +1,46 @@
+{
+  "LeadPage": {
+    "elem_g8awos": {
+      "type": "css",
+      "value": "span.toastMessage",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    },
+    "elem_hse7eu": {
+      "type": "css",
+      "value": "#Login",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    },
+    "elem_eukw6x": {
+      "type": "css",
+      "value": "#username",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    },
+    "elem_vnrrr6": {
+      "type": "css",
+      "value": "#password",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    },
+    "elem_z3yqnm": {
+      "type": "css",
+      "value": "button[title=",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    },
+    "elem_2qwi9t": {
+      "type": "css",
+      "value": "a[title=",
+      "source": "TC130",
+      "firstSeen": "2026-01-16",
+      "lastUsed": "2026-01-16"
+    }
+  }
+}
